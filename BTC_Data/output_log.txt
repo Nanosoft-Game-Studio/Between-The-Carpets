@@ -16,20 +16,26 @@ Platform assembly: D:\BTC\BTC\BTC_Data\Managed\UnityEngine.Networking.dll (this 
 Loading D:\BTC\BTC\BTC_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: D:\BTC\BTC\BTC_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading D:\BTC\BTC\BTC_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.167 seconds
+- Completed reload, in  0.042 seconds
 Platform assembly: D:\BTC\BTC\BTC_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: D:\BTC\BTC\BTC_Data\Managed\System.dll (this message is harmless)
 desktop: 2560x1440 59Hz; virtual: 4096x1440 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.799300 ms
+UnloadTime: 1.078200 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 5534 -> priority: 1 
-  Thread -> id: 9b0 -> priority: 1 
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 6.375300 ms
+  Thread -> id: 2848 -> priority: 1 
+  Thread -> id: 810 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.093800 ms
 
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 179.
-Total: 0.236400 ms (FindLiveObjects: 0.038500 ms CreateObjectMapping: 0.007800 ms MarkObjects: 0.180100 ms  DeleteObjects: 0.009500 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 236.
+Total: 0.278400 ms (FindLiveObjects: 0.052800 ms CreateObjectMapping: 0.019000 ms MarkObjects: 0.187100 ms  DeleteObjects: 0.018500 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.831300 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 185.
+Total: 0.201400 ms (FindLiveObjects: 0.013000 ms CreateObjectMapping: 0.004700 ms MarkObjects: 0.152000 ms  DeleteObjects: 0.031100 ms)
 

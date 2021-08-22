@@ -11,4 +11,10 @@ public class scene_change : MonoBehaviour {
 
 	}
 
+	public void quit() {
+
+		Application.Quit ();
+
+	}
+
 }
